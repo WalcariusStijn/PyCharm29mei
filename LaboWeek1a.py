@@ -59,3 +59,6 @@ n2 = int(10*n1 + n1 )
 n3 = int(100*n1 + n2)
 som = n1 + n2 + n3
 print("Het resultaat is: %d " % som)
+
+product = n1 * n2 * n3
+print("Het resultaat is: %d " % product)
