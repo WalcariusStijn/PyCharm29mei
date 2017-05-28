@@ -63,3 +63,5 @@ print("Het resultaat is: %d " % som)
 product = n1 * n2 * n3
 print("Het resultaat is: %d " % product)
 
+print("Even iets anders doen...")
+print("dit is een demo")
