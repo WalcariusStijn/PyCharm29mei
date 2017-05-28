@@ -55,8 +55,8 @@ getalDec = 12541
 
 a = int(input("Geef een getal op: "))
 n1 = int(a)
-n2 = int(10*n1 + n1 )
-n3 = int(100*n1 + n2)
+n2 = int(10 * n1 + n1)
+n3 = int(100 * n1 + n2)
 som = n1 + n2 + n3
 print("Het resultaat is: %d " % som)
 
@@ -65,3 +65,5 @@ print("Het resultaat is: %d " % product)
 
 print("Even iets anders doen...")
 print("dit is een demo")
+
+print("Dit is de start van een nieuw feature")
